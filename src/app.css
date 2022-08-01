@@ -1,0 +1,34 @@
+.links {
+    text-align: right;
+    padding-top: 8px;
+}
+
+button {
+    margin-bottom: 0;
+}
+
+.stats {
+    margin-top: 40px;
+}
+
+.card {
+    border: 1px solid black;
+    margin-bottom: 16px;
+    padding: 8px;
+}
+
+.header {
+    text-align: center;
+    background: black;
+    color: white;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 0;
+}
+
+li {
+    margin-bottom: 0;
+}
